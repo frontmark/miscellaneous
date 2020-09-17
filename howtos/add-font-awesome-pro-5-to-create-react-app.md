@@ -32,6 +32,8 @@ We ended up finding [this helpful GitHub issue comment](https://github.com/FortA
   "@fortawesome/pro-regular-svg-icons": "^5.14.0",
   "@fortawesome/pro-solid-svg-icons": "^5.14.0",
   "@fortawesome/react-fontawesome": "^0.1.9",
+  "...": "..."
+}
 ```
 
 ### `src/App.js`
