@@ -4,3 +4,7 @@
 # miscellaneous
 
 Bits and bytes that we created during our day-to-day work.
+
+## howtos
+
+- [How to add Font Awesome Pro 5 to a Create React App](howtos/add-font-awesome-pro-5-to-create-react-app.md)
