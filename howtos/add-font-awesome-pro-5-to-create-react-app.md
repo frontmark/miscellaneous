@@ -24,7 +24,6 @@ We ended up finding [this helpful GitHub issue comment](https://github.com/FortA
 
 ```json
 "dependencies": {
-  "@fortawesome/fontawesome-pro": "^5.14.0",
   "@fortawesome/fontawesome-svg-core": "^1.2.28",
   "@fortawesome/free-brands-svg-icons": "^5.13.0",
   "@fortawesome/pro-duotone-svg-icons": "^5.14.0",
