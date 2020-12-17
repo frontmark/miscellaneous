@@ -1,5 +1,7 @@
 # How to add Font Awesome Pro 5 to a Create React App
 
+<tt>Author: [favmd](https://github.com/favmd)</tt> <tt>Reviewer: [favph](https://github.com/favph)</tt>
+
 The following document describes the steps that we took to add Font Awesome Pro 5 to a [Create React App](https://create-react-app.dev).
 
 We've basically tried to follow the official docs (["Installing the Pro version of Font Awesome"](https://fontawesome.com/how-to-use/on-the-web/setup/using-package-managers#installing-pro) and ["React"](https://fontawesome.com/how-to-use/on-the-web/using-with/react)), but quickly had to realize that they were not *that* clear, concise and complete, mostly describing the usage of the Free version of Font Awesome.
