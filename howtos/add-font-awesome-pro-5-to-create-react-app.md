@@ -26,13 +26,13 @@ We ended up finding [this helpful GitHub issue comment](https://github.com/FortA
 
 ```json
 "dependencies": {
-  "@fortawesome/fontawesome-svg-core": "^1.2.28",
-  "@fortawesome/free-brands-svg-icons": "^5.13.0",
-  "@fortawesome/pro-duotone-svg-icons": "^5.14.0",
-  "@fortawesome/pro-light-svg-icons": "^5.14.0",
-  "@fortawesome/pro-regular-svg-icons": "^5.14.0",
-  "@fortawesome/pro-solid-svg-icons": "^5.14.0",
-  "@fortawesome/react-fontawesome": "^0.1.9",
+  "@fortawesome/fontawesome-svg-core": "^1.2.32",
+  "@fortawesome/free-brands-svg-icons": "^5.15.1",
+  "@fortawesome/pro-duotone-svg-icons": "^5.15.1",
+  "@fortawesome/pro-light-svg-icons": "^5.15.1",
+  "@fortawesome/pro-regular-svg-icons": "^5.15.1",
+  "@fortawesome/pro-solid-svg-icons": "^5.15.1",
+  "@fortawesome/react-fontawesome": "^0.1.13",
   "...": "..."
 }
 ```
