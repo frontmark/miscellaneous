@@ -11,4 +11,4 @@ Bits and bytes that we created during our day-to-day work.
 
 ## icons
 
-- [ColToFit.js](ColToFit.js)/[ColToFit.svg](ColToFit.svg) (designed to be used with ag-Grid's [sizeColumnsToFit()](https://www.ag-grid.com/documentation/javascript/column-sizing/))
+- [ColToFit.js](icons/ColToFit.js)/[ColToFit.svg](icons/ColToFit.svg) (designed to be used with ag-Grid's [sizeColumnsToFit()](https://www.ag-grid.com/documentation/javascript/column-sizing/))
